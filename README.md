@@ -1,7 +1,7 @@
 # GIT-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the git shell.
 
-### Index
+## Index
 * [Set Up](#setup)
 * [Configuration Files](#configuration-files)
 * [Create](#create)
