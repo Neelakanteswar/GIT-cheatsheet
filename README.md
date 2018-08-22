@@ -1,11 +1,6 @@
 # GIT-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the git shell.
 
-===============
-<hr>
-<p align="center">
-    <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
-</p>
 <hr>
 
 Git Cheat Sheet English
