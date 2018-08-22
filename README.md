@@ -4,7 +4,7 @@ This is a cheat sheet sheet served with all the important commands used in the g
 <hr>
 
 Git Cheat Sheet English
-===============
+
 ### Index
 * [Set Up](#setup)
 * [Configuration Files](#configuration-files)
