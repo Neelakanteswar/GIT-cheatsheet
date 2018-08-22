@@ -1,10 +1,6 @@
 # GIT-cheat-sheet
 This is a cheat sheet sheet served with all the important commands used in the git shell.
 
-<hr>
-
-Git Cheat Sheet English
-
 ### Index
 * [Set Up](#setup)
 * [Configuration Files](#configuration-files)
@@ -18,8 +14,6 @@ Git Cheat Sheet English
 * [Undo](#undo)
 * [Git Flow](#git-flow)
 
-
-<hr>
 
 ## Setup
 
@@ -639,17 +633,4 @@ $ git flow hotfix start VERSION [BASENAME]
 ```
 git flow hotfix finish VERSION
 ```
-<hr>
 
-### Commands
-<p align="center">
-    <img alt="Git" src="./Img/git-flow-commands.png" height="270" width="460">
-</p>
-<hr>
-
-### Git flow schema
-
-<p align="center">
-    <img alt="Git" src="Img/git-flow-commands-without-flow.png">
-</p>
-<hr>
